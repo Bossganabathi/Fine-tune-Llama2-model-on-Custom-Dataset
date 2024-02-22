@@ -1,3 +1,4 @@
+# Fine tuning Llama2 model using custom dataset
 The project is consider a Large Language model finetuning using custom dataset. 
 For this project using Llama2 model and using PEFT technique for fine tune the model.
 Orignal Dataset: https://huggingface.co/datasets/timdettmers/openassistant-guanaco
